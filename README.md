@@ -1,4 +1,4 @@
-# Buy or Wait? — deterministic solution
+# Buy or Wait
 
 Run from the project root with Python 3.11+:
 
