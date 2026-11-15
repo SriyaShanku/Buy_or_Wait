@@ -1,0 +1,98 @@
+{
+  "event_253": {
+    "amount": "4365000",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_1442": {
+    "amount": "100000",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_1545": {
+    "amount": "4122",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_1700": {
+    "amount": "2854",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_1786": {
+    "amount": "704.05",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_3051": {
+    "amount": "4990.25",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_3231": {
+    "amount": "8528",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_4535": {
+    "amount": "15339",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_5170": {
+    "amount": "723",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_6033": {
+    "amount": "79679.26",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_6859": {
+    "amount": "3650",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_7307": {
+    "amount": "833.5",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_7941": {
+    "amount": "2298",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_9421": {
+    "amount": "4553",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_9806": {
+    "amount": "9368",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  },
+  "event_10521": {
+    "amount": "393.22",
+    "confidence": "reviewed",
+    "source": "reviewed_receipt",
+    "note": "reviewed visible receipt total"
+  }
+}

@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,full payment keeps the projected balance above the IDR 24768300 minimum over 90 days.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,full payment keeps the projected balance above the ZAR 20500 minimum over 90 days.
+request_28,427.93,affordable_later,wait,2024-07-14:1302.4,2024-07-14,none,Waiting until 2024-07-14 protects the EUR minimum balance.
+request_29,51524,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,full payment keeps the projected balance above the ZAR 28300 minimum over 90 days.
+request_30,775.2,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,installments keeps the projected balance above the USD 900 minimum over 90 days.
+request_31,5047865.09,affordable_later,wait,2024-10-14:18164000,2024-10-14,none,Waiting until 2024-10-14 protects the IDR minimum balance.
+request_32,23199.01,affordable_later,wait,2025-02-15:40018,2025-02-15,none,Waiting until 2025-02-15 protects the ZAR minimum balance.
+request_33,48358.5,affordable_later,wait,2026-02-13:118000,2026-02-13,none,Waiting until 2026-02-13 protects the INR minimum balance.
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,full payment keeps the projected balance above the INR 138500 minimum over 90 days.
+request_35,49431.69,affordable_later,wait,2026-01-13:212000,2026-01-13,none,Waiting until 2026-01-13 protects the INR minimum balance.
+request_36,921.76,affordable_later,wait,2026-09-13:3954,2026-09-13,none,Waiting until 2026-09-13 protects the USD minimum balance.
+request_37,6820153.11,affordable_later,wait,2024-04-17:14649000,2024-04-17,none,Waiting until 2024-04-17 protects the IDR minimum balance.
+request_38,264.83,affordable_later,wait,2025-09-13:971.3,2025-09-13,none,Waiting until 2025-09-13 protects the EUR minimum balance.
+request_39,154684.53,affordable_later,wait,2026-04-15:208600,2026-04-15,none,Waiting until 2026-04-15 protects the INR minimum balance.
+request_40,540.01,affordable_later,wait,2024-07-15:1290.3,2024-07-15,none,Waiting until 2024-07-15 protects the EUR minimum balance.
+request_41,13799523.42,affordable_later,wait,2025-12-14:38760000,2025-12-14,none,Waiting until 2025-12-14 protects the IDR minimum balance.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,full payment keeps the projected balance above the INR 113100 minimum over 90 days.
+request_43,9868266.99,affordable_later,wait,2024-10-13:43339000,2024-10-13,none,Waiting until 2024-10-13 protects the IDR minimum balance.
+request_44,42229.46,affordable_later,wait,2025-03-18:95800,2025-03-18,none,Waiting until 2025-03-18 protects the INR minimum balance.
+request_45,4011563.56,affordable_later,wait,2026-09-13:21983000,2026-09-13,none,Waiting until 2026-09-13 protects the IDR minimum balance.
+request_46,44717.75,affordable_with_plan,partial_payment,2024-12-03:44717.75|2024-12-15:4732.25,2024-12-15,none,partial payment keeps the projected balance above the INR 84000 minimum over 90 days.
+request_47,17535882.71,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,full payment keeps the projected balance above the INR 71300 minimum over 90 days.
+request_49,16172335.19,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-04-17,none,installments keeps the projected balance above the IDR 20275700 minimum over 90 days.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,full payment keeps the projected balance above the INR 99700 minimum over 90 days.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,full payment keeps the projected balance above the IDR 7811000 minimum over 90 days.
+request_52,26530.01,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Waiting until 2024-06-15 protects the INR minimum balance.
+request_53,714.43,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2025-11-14,none,installments keeps the projected balance above the USD 2100 minimum over 90 days.
+request_54,5143.46,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_55,148276.02,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-06-14,none,installments keeps the projected balance above the INR 124300 minimum over 90 days.
+request_56,686.82,affordable_with_plan,partial_payment,2025-02-03:686.82|2025-02-15:194.74,2025-02-15,none,partial payment keeps the projected balance above the USD 2100 minimum over 90 days.
+request_57,15201.77,affordable_later,wait,2026-05-14:61446,2026-05-14,none,Waiting until 2026-05-14 protects the ZAR minimum balance.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,full payment keeps the projected balance above the IDR 14433900 minimum over 90 days.
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,installments keeps the projected balance above the INR 132600 minimum over 90 days.
+request_60,187.09,affordable_later,wait,2026-01-14:199.89,2026-01-14,none,Waiting until 2026-01-14 protects the USD minimum balance.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,installments keeps the projected balance above the ZAR 36700 minimum over 90 days.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,full payment keeps the projected balance above the USD 1300 minimum over 90 days.
+request_63,55887.52,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_64,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_65,7786.15,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,full payment keeps the projected balance above the INR 80700 minimum over 90 days.
+request_67,509.77,affordable_later,wait,2024-10-14:2094,2024-10-14,none,Waiting until 2024-10-14 protects the USD minimum balance.
+request_68,1556.77,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-02-23,none,installments keeps the projected balance above the USD 1500 minimum over 90 days.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,full payment keeps the projected balance above the EUR 700 minimum over 90 days.
+request_70,60305.49,affordable_later,wait,2025-01-16:243900,2025-01-16,none,Waiting until 2025-01-16 protects the INR minimum balance.
+request_71,1465725.28,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,full payment keeps the projected balance above the ZAR 12200 minimum over 90 days.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,full payment keeps the projected balance above the INR 103200 minimum over 90 days.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,full payment keeps the projected balance above the ZAR 21900 minimum over 90 days.
+request_75,28270,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,installments keeps the projected balance above the ZAR 39000 minimum over 90 days.
+request_76,1098.66,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,full payment keeps the projected balance above the INR 82200 minimum over 90 days.
+request_78,50200,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,full payment keeps the projected balance above the INR 55200 minimum over 90 days.
+request_79,819.86,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_80,125410.01,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,full payment keeps the projected balance above the USD 1600 minimum over 90 days.
+request_82,547.21,affordable_later,wait,2025-01-16:1405.2,2025-01-16,none,Waiting until 2025-01-16 protects the USD minimum balance.
+request_83,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_84,29789.36,affordable_later,wait,2026-05-14:95400,2026-05-14,none,Waiting until 2026-05-14 protects the INR minimum balance.
+request_85,944947.19,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,full payment keeps the projected balance above the INR 84900 minimum over 90 days.
+request_87,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_88,11959.8,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-06-14,none,installments keeps the projected balance above the ZAR 25800 minimum over 90 days.
+request_89,10918623.52,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-11-15,none,installments keeps the projected balance above the IDR 12534700 minimum over 90 days.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,full payment keeps the projected balance above the ZAR 7600 minimum over 90 days.
+request_91,897.06,affordable_later,wait,2024-10-14:1927.2,2024-10-14,none,Waiting until 2024-10-14 protects the EUR minimum balance.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,full payment keeps the projected balance above the ZAR 28100 minimum over 90 days.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,full payment keeps the projected balance above the USD 1900 minimum over 90 days.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,full payment keeps the projected balance above the EUR 600 minimum over 90 days.
+request_95,25326.87,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_96,84965.3,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-15,none,installments keeps the projected balance above the INR 56500 minimum over 90 days.
+request_97,2929.45,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-17,none,installments keeps the projected balance above the ZAR 29700 minimum over 90 days.
+request_98,10609.35,affordable_later,wait,2025-08-15:27148,2025-08-15,none,Waiting until 2025-08-15 protects the ZAR minimum balance.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,full payment keeps the projected balance above the ZAR 49100 minimum over 90 days.
+request_100,31359.04,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,installments keeps the projected balance above the ZAR 32500 minimum over 90 days.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,full payment keeps the projected balance above the INR 187400 minimum over 90 days.
+request_102,1716,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,installments keeps the projected balance above the EUR 900 minimum over 90 days.
+request_103,17678.08,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,full payment keeps the projected balance above the ZAR 24700 minimum over 90 days.
+request_105,53500,affordable_now,full_payment,2026-06-08:53500,2026-06-08,none,full payment keeps the projected balance above the INR 73900 minimum over 90 days.
+request_106,539.85,affordable_later,wait,2025-01-15:2207.7,2025-01-15,none,Waiting until 2025-01-15 protects the EUR minimum balance.
+request_107,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_108,3118.28,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_109,826.79,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-04-17,none,installments keeps the projected balance above the EUR 1700 minimum over 90 days.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,installments keeps the projected balance above the ZAR 11200 minimum over 90 days.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,full payment keeps the projected balance above the IDR 23022800 minimum over 90 days.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.7,2024-06-05,none,full payment keeps the projected balance above the EUR 500 minimum over 90 days.
+request_113,36500,affordable_now,full_payment,2026-09-04:36500,2026-09-04,none,full payment keeps the projected balance above the INR 82300 minimum over 90 days.
+request_114,65300,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,full payment keeps the projected balance above the INR 113400 minimum over 90 days.
+request_115,16726.06,affordable_later,wait,2024-11-13:80500,2024-11-13,none,Waiting until 2024-11-13 protects the INR minimum balance.
+request_116,27138.68,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,full payment keeps the projected balance above the EUR 1000 minimum over 90 days.
+request_118,692.39,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,2024-12-16,none,installments keeps the projected balance above the EUR 600 minimum over 90 days.
+request_119,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,full payment keeps the projected balance above the IDR 20050300 minimum over 90 days.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,full payment keeps the projected balance above the USD 800 minimum over 90 days.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,installments keeps the projected balance above the IDR 12588500 minimum over 90 days.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,full payment keeps the projected balance above the IDR 18091200 minimum over 90 days.
+request_124,1497.1,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-07-17,none,installments keeps the projected balance above the EUR 1600 minimum over 90 days.
+request_125,6468,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,full payment keeps the projected balance above the ZAR 11300 minimum over 90 days.
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,full payment keeps the projected balance above the INR 129700 minimum over 90 days.
+request_127,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,full payment keeps the projected balance above the ZAR 42600 minimum over 90 days.
+request_129,158.37,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_130,589.55,affordable_later,wait,2025-01-16:1978.8,2025-01-16,none,Waiting until 2025-01-16 protects the USD minimum balance.
+request_131,1267.59,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-23,none,installments keeps the projected balance above the USD 1100 minimum over 90 days.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,full payment keeps the projected balance above the USD 1100 minimum over 90 days.
+request_133,15770000,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_134,7343943.68,affordable_later,wait,2025-09-13:21831000,2025-09-13,none,Waiting until 2025-09-13 protects the IDR minimum balance.
+request_135,304.8,affordable_now,full_payment,2026-07-06:304.8,2026-07-06,none,full payment keeps the projected balance above the USD 500 minimum over 90 days.
+request_136,518.46,affordable_with_plan,full_payment,2024-06-03:560.4,2024-06-15,reduce_to:event_12482:27.2|reduce_to:event_12490:27.2|reduce_to:event_12498:27.2,full payment keeps the projected balance above the USD 1100 minimum over 90 days.
+request_137,34493.63,affordable_later,wait,2025-12-14:80100,2025-12-14,none,Waiting until 2025-12-14 protects the INR minimum balance.
+request_138,1011.62,affordable_with_plan,partial_payment,2026-04-07:1011.62|2026-04-14:245.32,2026-04-14,none,partial payment keeps the projected balance above the EUR 2300 minimum over 90 days.
+request_139,1977.33,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-15,none,installments keeps the projected balance above the USD 1500 minimum over 90 days.
+request_140,1987.36,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_141,23762.33,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,full payment keeps the projected balance above the USD 1700 minimum over 90 days.
+request_143,4170.9,affordable_later,wait,2025-06-16:12584,2025-06-16,none,Waiting until 2025-06-16 protects the ZAR minimum balance.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,full payment keeps the projected balance above the USD 600 minimum over 90 days.
+request_145,51372.73,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-04-17,none,installments keeps the projected balance above the INR 155400 minimum over 90 days.
+request_146,25072.29,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_147,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_148,10425.13,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-06-14,none,installments keeps the projected balance above the ZAR 20000 minimum over 90 days.
+request_149,23847.46,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-14,none,installments keeps the projected balance above the ZAR 42100 minimum over 90 days.
+request_150,403.91,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-01-14,none,installments keeps the projected balance above the EUR 700 minimum over 90 days.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,full payment keeps the projected balance above the IDR 31633600 minimum over 90 days.
+request_152,12819,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-14,none,installments keeps the projected balance above the ZAR 11900 minimum over 90 days.
+request_153,42.66,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,installments keeps the projected balance above the EUR 1300 minimum over 90 days.
+request_155,40954.96,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_156,8520.3,affordable_later,wait,2026-05-14:43076,2026-05-14,none,Waiting until 2026-05-14 protects the ZAR minimum balance.
+request_157,4656876.7,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_158,242600,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,installments keeps the projected balance above the INR 131400 minimum over 90 days.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,full payment keeps the projected balance above the ZAR 8700 minimum over 90 days.
+request_160,561.25,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-06-15,none,installments keeps the projected balance above the EUR 1200 minimum over 90 days.
+request_161,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_162,3237072.44,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_163,13212438.6,affordable_with_plan,installments,2024-09-10:6692053.33|2024-10-11:6692053.33|2024-11-11:6692053.33,2024-09-14,none,installments keeps the projected balance above the IDR 26728700 minimum over 90 days.
+request_164,27018000,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,installments keeps the projected balance above the IDR 29550500 minimum over 90 days.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,full payment keeps the projected balance above the INR 95000 minimum over 90 days.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,installments keeps the projected balance above the USD 1700 minimum over 90 days.
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,full payment keeps the projected balance above the ZAR 31200 minimum over 90 days.
+request_168,43984.85,affordable_with_plan,partial_payment,2026-01-07:43984.85|2026-01-14:5395.15,2026-01-14,none,partial payment keeps the projected balance above the INR 114400 minimum over 90 days.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,full payment keeps the projected balance above the ZAR 18700 minimum over 90 days.
+request_170,33634045.34,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-08-14,none,installments keeps the projected balance above the IDR 24715800 minimum over 90 days.
+request_171,38.74,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_172,10200,affordable_with_plan,installments,2024-06-05:5304|2024-07-03:5304,2024-06-05,none,installments keeps the projected balance above the ZAR 27200 minimum over 90 days.
+request_173,74475.63,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,2025-11-15,none,installments keeps the projected balance above the INR 79100 minimum over 90 days.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,installments keeps the projected balance above the EUR 700 minimum over 90 days.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,full payment keeps the projected balance above the EUR 1700 minimum over 90 days.
+request_176,267.45,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,full payment keeps the projected balance above the USD 1300 minimum over 90 days.
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,installments keeps the projected balance above the EUR 1400 minimum over 90 days.
+request_179,12716431.44,affordable_later,wait,2025-06-16:41648000,2025-06-16,none,Waiting until 2025-06-16 protects the IDR minimum balance.
+request_180,66500,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,full payment keeps the projected balance above the INR 37300 minimum over 90 days.
+request_181,591.6,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,full payment keeps the projected balance above the ZAR 31100 minimum over 90 days.
+request_183,25548347.76,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-04-14,none,installments keeps the projected balance above the IDR 11878300 minimum over 90 days.
+request_184,18426.85,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_185,490.81,affordable_later,wait,2025-12-14:1257.3,2025-12-14,none,Waiting until 2025-12-14 protects the EUR minimum balance.
+request_186,17677.24,affordable_later,wait,2026-01-14:26554,2026-01-14,none,Waiting until 2026-01-14 protects the ZAR minimum balance.
+request_187,37433.84,affordable_later,wait,2024-10-15:187500,2024-10-15,none,Waiting until 2024-10-15 protects the INR minimum balance.
+request_188,284.83,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,full payment keeps the projected balance above the EUR 400 minimum over 90 days.
+request_190,429.18,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,full payment keeps the projected balance above the EUR 500 minimum over 90 days.
+request_192,300.34,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_193,211.15,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-03-17,none,installments keeps the projected balance above the EUR 1000 minimum over 90 days.
+request_194,40073.14,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_195,1014.38,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-14,none,installments keeps the projected balance above the EUR 700 minimum over 90 days.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,full payment keeps the projected balance above the EUR 500 minimum over 90 days.
+request_197,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,full payment keeps the projected balance above the INR 124300 minimum over 90 days.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,installments keeps the projected balance above the IDR 25359500 minimum over 90 days.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,full payment keeps the projected balance above the IDR 20114600 minimum over 90 days.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,full payment keeps the projected balance above the IDR 17304500 minimum over 90 days.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,full payment keeps the projected balance above the INR 147800 minimum over 90 days.
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,installments keeps the projected balance above the EUR 1400 minimum over 90 days.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,none,full payment keeps the projected balance above the EUR 1300 minimum over 90 days.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,full payment keeps the projected balance above the IDR 13994300 minimum over 90 days.
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,installments keeps the projected balance above the EUR 900 minimum over 90 days.
+request_207,6097.49,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Waiting until 2026-07-15 protects the ZAR minimum balance.
+request_208,3133940.84,affordable_later,wait,2024-06-14:4413000,2024-06-14,none,Waiting until 2024-06-14 protects the IDR minimum balance.
+request_209,3016.77,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_210,984.62,affordable_with_plan,partial_payment,2026-04-06:984.62|2026-04-14:375.4,2026-04-14,none,partial payment keeps the projected balance above the USD 2000 minimum over 90 days.
+request_211,572.54,affordable_later,wait,2024-10-14:1788.6,2024-10-14,none,Waiting until 2024-10-14 protects the EUR minimum balance.
+request_212,8678220.4,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_213,3362.4,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,installments keeps the projected balance above the USD 2100 minimum over 90 days.
+request_214,69750,affordable_with_plan,installments,2024-12-04:36270|2025-01-01:36270,2024-12-04,none,installments keeps the projected balance above the INR 174900 minimum over 90 days.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,installments keeps the projected balance above the ZAR 15700 minimum over 90 days.
+request_216,722.53,affordable_later,wait,2026-09-13:3332.4,2026-09-13,none,Waiting until 2026-09-13 protects the USD minimum balance.
+request_217,22072.14,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-04-17,none,installments keeps the projected balance above the ZAR 26800 minimum over 90 days.
+request_218,27996567.54,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-08-15,none,installments keeps the projected balance above the IDR 34477200 minimum over 90 days.
+request_219,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_220,209.85,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,full payment keeps the projected balance above the INR 81500 minimum over 90 days.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,full payment keeps the projected balance above the ZAR 27300 minimum over 90 days.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,full payment keeps the projected balance above the EUR 800 minimum over 90 days.
+request_224,10327000,affordable_with_plan,installments,2025-02-04:5370040|2025-03-04:5370040,2025-02-04,none,installments keeps the projected balance above the IDR 22187600 minimum over 90 days.
+request_225,11394051.14,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-08-14,none,installments keeps the projected balance above the IDR 17670700 minimum over 90 days.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,full payment keeps the projected balance above the INR 209400 minimum over 90 days.
+request_227,12846.71,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_228,7643700.01,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_229,592.99,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-04-17,none,installments keeps the projected balance above the EUR 1000 minimum over 90 days.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,full payment keeps the projected balance above the EUR 2000 minimum over 90 days.
+request_231,35706,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-03,none,installments keeps the projected balance above the ZAR 24300 minimum over 90 days.
+request_232,1070.94,affordable_later,wait,2024-08-14:1970.1,2024-08-14,none,Waiting until 2024-08-14 protects the EUR minimum balance.
+request_233,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_234,260.26,affordable_later,wait,2026-08-14:1213.3,2026-08-14,none,Waiting until 2026-08-14 protects the EUR minimum balance.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,full payment keeps the projected balance above the USD 700 minimum over 90 days.
+request_236,6709983.65,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,full payment keeps the projected balance above the IDR 22431500 minimum over 90 days.
+request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,installments keeps the projected balance above the USD 700 minimum over 90 days.
+request_239,202.35,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_240,20020.01,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,installments keeps the projected balance above the IDR 19252000 minimum over 90 days.
+request_242,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,full payment keeps the projected balance above the ZAR 19900 minimum over 90 days.
+request_244,49918,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,full payment keeps the projected balance above the ZAR 45900 minimum over 90 days.
+request_245,47644.71,affordable_later,wait,2025-12-15:128500,2025-12-15,none,Waiting until 2025-12-15 protects the INR minimum balance.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,installments keeps the projected balance above the ZAR 39300 minimum over 90 days.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,full payment keeps the projected balance above the EUR 1300 minimum over 90 days.
+request_248,1025.94,affordable_with_plan,partial_payment,2025-02-07:1025.94|2025-04-15:939.66,2025-04-15,none,partial payment keeps the projected balance above the USD 1300 minimum over 90 days.
+request_249,213.05,affordable_later,wait,2026-02-13:643.2,2026-02-13,none,Waiting until 2026-02-13 protects the USD minimum balance.
+request_250,17762.29,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_251,1513.6,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_252,5897254.42,affordable_later,wait,2026-08-14:28082000,2026-08-14,none,Waiting until 2026-08-14 protects the IDR minimum balance.
+request_253,1525.97,affordable_with_plan,installments,2024-03-21:984.6|2024-04-21:984.6|2024-05-22:984.6,2024-04-17,none,installments keeps the projected balance above the EUR 2300 minimum over 90 days.
+request_254,1068.46,affordable_later,wait,2025-09-13:3535.2,2025-09-13,none,Waiting until 2025-09-13 protects the USD minimum balance.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,full payment keeps the projected balance above the IDR 9813900 minimum over 90 days.
+request_256,177158.38,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-06-15,none,installments keeps the projected balance above the INR 168600 minimum over 90 days.
+request_257,495.81,affordable_later,wait,2025-12-14:1352.4,2025-12-14,none,Waiting until 2025-12-14 protects the USD minimum balance.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,full payment keeps the projected balance above the USD 500 minimum over 90 days.
+request_259,494.82,affordable_later,wait,2024-10-14:935,2024-10-14,none,Waiting until 2024-10-14 protects the EUR minimum balance.
+request_260,9778207.11,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,full payment keeps the projected balance above the EUR 1500 minimum over 90 days.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,full payment keeps the projected balance above the IDR 31018500 minimum over 90 days.
+request_263,10697.42,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_264,27042,affordable_later,wait,2026-05-14:111300,2026-05-14,none,Waiting until 2026-05-14 protects the INR minimum balance.
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,full payment keeps the projected balance above the INR 189700 minimum over 90 days.
+request_266,935,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-08-03,none,installments keeps the projected balance above the EUR 900 minimum over 90 days.
+request_267,1804.14,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-14,none,installments keeps the projected balance above the EUR 1500 minimum over 90 days.
+request_268,1134.53,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-14,none,installments keeps the projected balance above the EUR 1400 minimum over 90 days.
+request_269,0,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_270,245.93,not_affordable,not_recommended,none,,none,No eligible plan maintains the required minimum balance through the 90-day forecast.
+request_271,26651.94,affordable_later,wait,2024-10-14:91300,2024-10-14,none,Waiting until 2024-10-14 protects the INR minimum balance.
+request_272,6683525.7,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-02-14,none,installments keeps the projected balance above the IDR 7508600 minimum over 90 days.
+request_273,10764260.97,affordable_with_plan,partial_payment,2026-04-07:10764260.97|2026-04-14:5096739.03,2026-04-14,none,partial payment keeps the projected balance above the IDR 18774600 minimum over 90 days.
+request_274,2524.63,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2024-12-16,none,installments keeps the projected balance above the EUR 1800 minimum over 90 days.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,full payment keeps the projected balance above the IDR 12760100 minimum over 90 days.
